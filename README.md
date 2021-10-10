@@ -21,5 +21,5 @@ The data cleaning and feature engineering has been done using pandas and numpy. 
 <br>
 
 ## Contributions:
-[Sandeep Ram](https://github.com/SandeepRam31)
+[Hardik Jain](https://github.com/hardikjain10)
 <br>
