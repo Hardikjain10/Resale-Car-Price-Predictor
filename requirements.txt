@@ -1,0 +1,6 @@
+streamlit
+sklearn
+numpy
+pillow
+xgboost
+matplotlib
